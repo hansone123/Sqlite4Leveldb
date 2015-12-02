@@ -1,0 +1,5 @@
+2015/12/02-11:19:39.379306 7fcbdb85c740 Recovering log #6
+2015/12/02-11:19:39.379467 7fcbdb85c740 Level-0 table #8: started
+2015/12/02-11:19:39.383321 7fcbdb85c740 Level-0 table #8: 115 bytes OK
+2015/12/02-11:19:39.391013 7fcbdb85c740 Delete type=0 #6
+2015/12/02-11:19:39.391103 7fcbdb85c740 Delete type=3 #4
